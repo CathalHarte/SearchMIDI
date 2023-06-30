@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchMIDI", "SearchMIDI\SearchMIDI.csproj", "{854BCB76-3B4D-49C9-BC4E-B06F067F6ACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{854BCB76-3B4D-49C9-BC4E-B06F067F6ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854BCB76-3B4D-49C9-BC4E-B06F067F6ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854BCB76-3B4D-49C9-BC4E-B06F067F6ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854BCB76-3B4D-49C9-BC4E-B06F067F6ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25A462F9-00C5-4D42-A4A0-65905D746E7E}
+	EndGlobalSection
+EndGlobal
